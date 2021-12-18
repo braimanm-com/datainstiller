@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<datainstiller.data.Pers1>
+<pers1>
     <aliases>
         <address>${AddressGen.generateAddress()}</address>
         <address-full>${address.toString("{C}, {#} {S}, {T}, {P}, {K}, {O}")}</address-full>
@@ -29,4 +29,4 @@
         <provinceCode>${province-code}</provinceCode>
         <postalCode>${postal-code}</postalCode>
     </pers2>
-</datainstiller.data.Pers1>
+</pers1>

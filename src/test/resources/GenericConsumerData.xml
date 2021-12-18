@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<datainstiller.data.GenericDataConsumer>
+<generic-data-consumer>
     <entity1>
         <entities>
             <entity>
@@ -136,4 +136,4 @@
             </entities>
         </generic-data>
     </entityList>
-</datainstiller.data.GenericDataConsumer>
+</generic-data-consumer>
